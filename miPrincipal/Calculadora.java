@@ -11,10 +11,10 @@ public class Calculadora {
     }
 
     public int multiplica(int x, int y) {
-        return x * y;
+        return 0;
     }
 
     public int divide(int x, int y) {
-        return x / y;
+        return 0;
     }
 }
